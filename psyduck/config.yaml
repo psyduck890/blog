@@ -1,0 +1,4 @@
+baseURL: https://psyduck890.github.io/
+languageCode: en-us
+title: Psyduck's blog
+theme: github.com/nodejh/hugo-theme-mini

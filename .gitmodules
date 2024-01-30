@@ -1,0 +1,8 @@
+[submodule "psyduck/psyduck890.github.io"]
+	path = psyduck/psyduck890.github.io
+	url = https://github.com/psyduck890/psyduck890.github.io.git
+	branch = main
+[submodule "psyduck/public"]
+	path = psyduck/public
+	url = https://github.com/psyduck890/psyduck890.github.io.git
+	branch = main
